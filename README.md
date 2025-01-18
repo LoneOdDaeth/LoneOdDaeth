@@ -19,6 +19,14 @@ Merhaba, ben Selim Oğuz ŞAHİN. Bilgisayar mühendisliği alanında çeşitli 
 
 ## İletişim
 
-- LinkedIn: [in/s-oğuz-şahin38](https://www.linkedin.com/in/s-o%C4%9Fuz-%C5%9Fahin38/)
-- Instagram: [s_0guz](https://www.instagram.com/s_0guz/)
-- E-posta: [E-posta adresinizi buraya ekleyin]
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-o%C4%9Fuz-%C5%9Fahin38/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/s_0guz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:selimoguz38@outlook.com">
+    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-posta">
+  </a>
+</p>
