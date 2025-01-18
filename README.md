@@ -13,13 +13,12 @@ Merhaba, ben Selim Oğuz ŞAHİN. Bilgisayar mühendisliği alanında çeşitli 
 
 ## Öne Çıkan Projeler
 
-- [ComputerEngineering](https://github.com/LoneOdDaeth/ComputerEngineering): Bilgisayar mühendisliği bölümünde yazmış olduğum projeleri içeren bir depo. :contentReference[oaicite:0]{index=0}
-- [DiabetTahminAlgoritmasi](https://github.com/LoneOdDaeth/DiabetTahminAlgoritmasi): Kullanıcının çeşitli sağlık ölçümleri ve kişisel bilgilerini kullanarak diyabet riskini tahmin eden bir SVM modeli. :contentReference[oaicite:1]{index=1}
-- [Instagram_Login_Bot](https://github.com/LoneOdDaeth/Instagram_Login_Bot): Selenium kütüphanesi kullanarak Instagram hesabınıza otomatik olarak giriş yapar ve takipçilerinizi listeleyerek çıktılarını alır. :contentReference[oaicite:2]{index=2}
+- [ComputerEngineering](https://github.com/LoneOdDaeth/ComputerEngineering): Bilgisayar mühendisliği bölümünde yazmış olduğum projeleri içeren bir depo.
+- [DiabetTahminAlgoritmasi](https://github.com/LoneOdDaeth/DiabetTahminAlgoritmasi): Kullanıcının çeşitli sağlık ölçümleri ve kişisel bilgilerini kullanarak diyabet riskini tahmin eden bir SVM modeli.
+- [Instagram_Login_Bot](https://github.com/LoneOdDaeth/Instagram_Login_Bot): Selenium kütüphanesi kullanarak Instagram hesabınıza otomatik olarak giriş yapar ve takipçilerinizi listeleyerek çıktılarını alır.
 
 ## İletişim
 
 - LinkedIn: [in/s-oğuz-şahin38](https://www.linkedin.com/in/s-o%C4%9Fuz-%C5%9Fahin38/)
 - Instagram: [s_0guz](https://www.instagram.com/s_0guz/)
 - E-posta: [E-posta adresinizi buraya ekleyin]
-
