@@ -12,11 +12,11 @@ Merhaba, ben Selim Oğuz ŞAHİN. Bilgisayar mühendisliği alanında çeşitli 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=LoneOdDaeth&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<!--
 ## Programming Languages
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=LoneOdDaeth&layout=compact&theme=dark"/>
-</p> 
+</p> --> 
 ## Öne Çıkan Projeler
 
 - [ComputerEngineering](https://github.com/LoneOdDaeth/ComputerEngineering): Bilgisayar mühendisliği bölümünde yazmış olduğum projeleri içeren bir depo.
